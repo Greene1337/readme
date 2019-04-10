@@ -14,10 +14,9 @@ What things you need to install the software and how to install them
 First code here
 ```
 
-(https://github.com/Greene1337/readme/blob/master/Cats/cat1.jpg)
-
+![](/Cats/cat1.jpg)
 ![](Cats/cat2.png)
-
+![](/Cats/cat3.jpg)
 
 ### 1.1.1
 
